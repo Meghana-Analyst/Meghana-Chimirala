@@ -12,9 +12,9 @@
 This repository showcases a curated collection of data analytics projects completed during my internship at Procapitas and through self-learning initiatives. Each project is based on real-world datasets and reflects my end-to-end data handling skills — from data extraction and cleaning to visualization and generating actionable insights.
 
 The tools and technologies used include:
+- Power BI, Tableau, Looker Studio
 - Python (Pandas, Matplotlib)
 - SQL
-- Power BI, Tableau, Looker Studio
 - MS Excel
 
 These projects represent my practical application of data analytics skills in domains such as healthcare, crime analysis, sales, and customer segmentation.
