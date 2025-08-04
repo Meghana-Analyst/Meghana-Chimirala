@@ -1,6 +1,25 @@
-# 📊 Meghana Chimirala – Data Analyst Portfolio
+# 📊 Meghana Chimirala
 
-Welcome to my data analytics project portfolio! I'm a B.Pharm graduate with a strong interest in leveraging data for insights in healthcare and business. Below is a collection of my projects using tools like Python, SQL, Power BI, Tableau, and Looker Studio.
+🎓 **B.Pharmacy Graduate | Aspiring Data Analyst**  
+🔍 Passionate about transforming raw data into actionable insights using modern analytical tools.  
+📄 [Resume](📄 [Resume](https://drive.google.com/file/d/1du8J_puLK6cIOb0eHCoHFnKjTHX_CJp4/view?usp=sharing)
+)
+
+---
+
+### 📂 About This Portfolio
+
+This repository showcases a curated collection of data analytics projects completed during my internship at Procapitas and through self-learning initiatives. Each project is based on real-world datasets and reflects my end-to-end data handling skills — from data extraction and cleaning to visualization and generating actionable insights.
+
+The tools and technologies used include:
+- Python (Pandas, Matplotlib)
+- SQL
+- Power BI, Tableau, Looker Studio
+- MS Excel
+
+These projects represent my practical application of data analytics skills in domains such as healthcare, crime analysis, sales, and customer segmentation.
+
+---
 
 ---
 
