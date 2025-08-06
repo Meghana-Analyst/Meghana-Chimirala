@@ -1,4 +1,4 @@
-# 🇮🇳 2019 Indian General Elections – Power BI Dashboard
+# 2019 Indian General Elections – Power BI Dashboard
 
 ## 🔍 About the Project
 This Power BI dashboard gives a clear and interactive look at the 2019 Indian General Election results. It helps users explore how different political parties performed across various states, how voter turnout varied, and where each party gained the most support.
