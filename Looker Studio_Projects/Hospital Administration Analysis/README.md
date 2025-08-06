@@ -9,11 +9,10 @@ This interactive dashboard was built using **Looker Studio** to analyze hospital
 ## 💡 Key Highlights
 
 - 📅 **Patient Admissions Overview:** Track total admissions, discharges, and daily trends  
-- 🧑‍⚕️ **Departmental Workload:** See how various departments (e.g., Cardiology, Emergency, Pediatrics) are performing  
-- 📍 **Geographical Trends:** Breakdown of patient origins to support outreach planning  
-- 📈 **Monthly Comparison:** Monitor patient footfall and trends over time  
-- 🛏️ **Bed Utilization Metrics:** View occupancy rates and bed management insights  
-
+- 🧑‍⚕️ **Emergency Cases:** See how emergency cases are recorded  
+- 📍 **Racial Trends:** Breakdown of patient origins to their health status  
+- 📈 **Total Number of Procedures:** Toal number of procedures recorded  
+ 
 ---
 
 ## 🎯 Purpose of the Project
