@@ -13,21 +13,21 @@ The dashboard provides an intuitive view of:
  📈 Readmission Analysis
 ⦁	The highest readmission rates are seen in older age groups, especially between 70–80 years.
 ⦁	Emergency cases significantly contribute to readmission rates, with most readmitted patients experiencing 1 or no emergency visit.
-# 👩‍⚕️ Gender & Procedure Distribution
+👩‍⚕️ Gender & Procedure Distribution
 ⦁	Procedures are fairly evenly distributed across genders:
 ⦁	Female: 49.8%
 ⦁	Male: 50.2%
-# 🌍 Race vs Diabetes
+ 🌍 Race vs Diabetes
 ⦁	Caucasian and African-American populations form the majority of diabetic cases.
 ⦁	Other races show comparatively lower diabetes incidence, though some data entries are marked as unknown.
-# 💊 Medication & Hospital Stay
+ 💊 Medication & Hospital Stay
 ⦁	A clear correlation is observed between number of medications prescribed and duration of hospital stay.
 ⦁	Older patients often require more medications and tend to stay longer.
- # 📋 Patient-Level Detail
+  📋 Patient-Level Detail
 A scrollable table provides detailed patient demographics including:
 ⦁	Age, gender, race
 ⦁	Number of lab procedures and medications administered
-# 🎯 Purpose
+ 🎯 Purpose
 ## This dashboard is designed for:
 ⦁	Hospital administrators to improve service delivery
 ⦁	Healthcare analysts to monitor patient trends
