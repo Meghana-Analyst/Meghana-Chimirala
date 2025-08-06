@@ -10,7 +10,7 @@ The dashboard provides an intuitive view of:
 ⦁	Emergency Cases: 13.3K
 ⦁	Total Procedures: 88.7K
 ## 📊 Key Insights
-# 📈 Readmission Analysis
+ 📈 Readmission Analysis
 ⦁	The highest readmission rates are seen in older age groups, especially between 70–80 years.
 ⦁	Emergency cases significantly contribute to readmission rates, with most readmitted patients experiencing 1 or no emergency visit.
 # 👩‍⚕️ Gender & Procedure Distribution
@@ -23,11 +23,11 @@ The dashboard provides an intuitive view of:
 # 💊 Medication & Hospital Stay
 ⦁	A clear correlation is observed between number of medications prescribed and duration of hospital stay.
 ⦁	Older patients often require more medications and tend to stay longer.
-# 📋 Patient-Level Detail
+ # 📋 Patient-Level Detail
 A scrollable table provides detailed patient demographics including:
 ⦁	Age, gender, race
 ⦁	Number of lab procedures and medications administered
-🎯 Purpose
+# 🎯 Purpose
 ## This dashboard is designed for:
 ⦁	Hospital administrators to improve service delivery
 ⦁	Healthcare analysts to monitor patient trends
