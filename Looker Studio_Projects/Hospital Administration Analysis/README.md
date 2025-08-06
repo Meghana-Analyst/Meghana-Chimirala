@@ -1,34 +1,49 @@
-# 🏥 Hospital Administration Analysis Dashboard
+# 🏥 Hospital Administration Analysis Dashboard – Looker Studio Project
 
-This Power BI project focuses on analyzing hospital administrative data to uncover key insights related to patient demographics, readmissions, emergencies, and treatment patterns. It helps stakeholders understand how hospital resources are being utilized and where improvements can be made.
+## 📊 Overview
 
-## 🔍 Overview
-The dashboard provides an intuitive view of:
-⦁	Total Patients: 66.6K
-⦁	Readmissions: 30.8K
-⦁	Inpatients & Outpatients: 42.5K & 24.3K respectively
-⦁	Emergency Cases: 13.3K
-⦁	Total Procedures: 88.7K
-## 📊 Key Insights
- 📈 Readmission Analysis
-⦁	The highest readmission rates are seen in older age groups, especially between 70–80 years.
-⦁	Emergency cases significantly contribute to readmission rates, with most readmitted patients experiencing 1 or no emergency visit.
-👩‍⚕️ Gender & Procedure Distribution
-⦁	Procedures are fairly evenly distributed across genders:
-⦁	Female: 49.8%
-⦁	Male: 50.2%
- 🌍 Race vs Diabetes
-⦁	Caucasian and African-American populations form the majority of diabetic cases.
-⦁	Other races show comparatively lower diabetes incidence, though some data entries are marked as unknown.
- 💊 Medication & Hospital Stay
-⦁	A clear correlation is observed between number of medications prescribed and duration of hospital stay.
-⦁	Older patients often require more medications and tend to stay longer.
-  📋 Patient-Level Detail
-A scrollable table provides detailed patient demographics including:
-⦁	Age, gender, race
-⦁	Number of lab procedures and medications administered
- 🎯 Purpose
-## This dashboard is designed for:
-⦁	Hospital administrators to improve service delivery
-⦁	Healthcare analysts to monitor patient trends
-⦁	Medical staff to identify high-risk groups for targeted care
+This interactive dashboard was built using **Looker Studio** to analyze hospital administration data and uncover key operational insights. The aim is to help healthcare professionals and administrators make data-driven decisions to improve efficiency, patient care, and resource allocation.
+
+---
+
+## 💡 Key Highlights
+
+- 📅 **Patient Admissions Overview:** Track total admissions, discharges, and daily trends  
+- 🧑‍⚕️ **Departmental Workload:** See how various departments (e.g., Cardiology, Emergency, Pediatrics) are performing  
+- 📍 **Geographical Trends:** Breakdown of patient origins to support outreach planning  
+- 📈 **Monthly Comparison:** Monitor patient footfall and trends over time  
+- 🛏️ **Bed Utilization Metrics:** View occupancy rates and bed management insights  
+
+---
+
+## 🎯 Purpose of the Project
+
+Efficient hospital management is critical for providing quality healthcare. This dashboard helps identify bottlenecks, manage capacity, and evaluate service performance in a simplified visual format — useful for both strategic planning and day-to-day operations.
+
+---
+
+## ⚙️ Tools & Tech Used
+
+- **Looker Studio** for dashboard creation and data visualization  
+- **Google Sheets** as the primary data source  
+- Visuals include scorecards, pie charts, bar graphs, time-series charts, and filters
+
+---
+
+## 🧠 What I Learned
+
+Through this project, I learned how to:
+- Organize healthcare-related data for administrative use  
+- Build intuitive and interactive dashboards tailored for hospital settings  
+- Extract meaningful insights that help improve operational decisions
+
+---
+
+## 📌 Use Cases
+
+- Healthcare analysts monitoring patient trends  
+- Hospital managers tracking department performance  
+- Decision-makers reviewing capacity and resource allocation
+
+---
+
