@@ -1,9 +1,7 @@
-# 📊 Meghana Chimirala
-
-🎓 **B.Pharmacy Graduate | Aspiring Data Analyst**  
+# 📊 Meghana Chimirala - Data Analyst Portfolio
+ 
 🔍 Passionate about transforming raw data into actionable insights using modern analytical tools.  
-📄 [Resume](📄 [Resume](https://drive.google.com/file/d/1du8J_puLK6cIOb0eHCoHFnKjTHX_CJp4/view?usp=sharing)
-)
+📄 [Resume](https://drive.google.com/file/d/1du8J_puLK6cIOb0eHCoHFnKjTHX_CJp4/view?usp=sharing)
 
 ---
 
@@ -18,8 +16,6 @@ The tools and technologies used include:
 - MS Excel
 
 These projects represent my practical application of data analytics skills in domains such as healthcare, crime analysis, sales, and customer segmentation.
-
----
 
 ---
 
