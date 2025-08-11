@@ -1,7 +1,7 @@
 # 📊 Meghana Chimirala - Data Analyst Portfolio
  
 🔍 Passionate about transforming raw data into actionable insights using modern analytical tools.  
-📄 [Resume](https://drive.google.com/file/d/1du8J_puLK6cIOb0eHCoHFnKjTHX_CJp4/view?usp=sharing)
+📄 [Resume] (https://drive.google.com/file/d/1M2wXx8GRaCujPbVdxm1AWqXd5xSN_pNg/view?usp=sharing)
 
 ---
 
